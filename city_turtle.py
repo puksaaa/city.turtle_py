@@ -1,6 +1,4 @@
 from turtle import*
-from sity import*
-from turtle import*
 def dom():
     penup()
     goto(-90,-90)
