@@ -1,5 +1,5 @@
 from turtle import*
-def dom():
+def house():
     penup()
     goto(-90,-90)
     pendown()
@@ -131,7 +131,7 @@ goto(250,-250)
 goto(-250,-250)
 end_fill()
 
-dom()
+house()
 
 penup()
 goto(-30,-70)
